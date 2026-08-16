@@ -76,6 +76,9 @@ Git · GitHub · Jupyter
 - 📧 ajwahashmi@outlook.com
 - 📂 Full portfolio (all projects & certificates): [add your Google Drive link here]
 
+
+
+---
   
 # ⭐ Thanks for visiting!
 If you like what you see, consider starring a repo or leaving feedback 🙌
