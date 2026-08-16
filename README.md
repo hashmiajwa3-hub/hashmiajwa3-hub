@@ -74,7 +74,7 @@ Git · GitHub · Jupyter
 ### 📫 Let's Connect
 
 - 📧 ajwahashmi@outlook.com
-- 📂 Full portfolio (all projects & certificates): [https://drive.google.com/drive/folders/17frgxd7snMfLPJqS7qct0fzWpUlBBxZl]
+- 📂 Full portfolio [all projects & certificates: ](https://drive.google.com/drive/folders/17frgxd7snMfLPJqS7qct0fzWpUlBBxZl)
 
 
 
