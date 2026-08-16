@@ -68,6 +68,7 @@ Git · GitHub · Jupyter
 - Guided Tour of Machine Learning in Finance — NYU (Coursera)
 - Intuit Academy Bookkeeping — Professional Certificate
 - AI for Finance – Level 1 — CA Monk
+- Other [Certificates](https://drive.google.com/drive/folders/17frgxd7snMfLPJqS7qct0fzWpUlBBxZl)
 
 ---
 
