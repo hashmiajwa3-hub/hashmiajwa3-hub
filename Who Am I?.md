@@ -74,5 +74,6 @@ Git · GitHub · Jupyter
 ### 📫 Let's Connect
 
 - 📧 ajwahashmi@outlook.com
-- 💼 LinkedIn: [add your LinkedIn URL here]
 - 📂 Full portfolio (all projects & certificates): [add your Google Drive link here]
+#⭐ Thanks for visiting!
+If you like what you see, consider starring a repo or leaving feedback 🙌
