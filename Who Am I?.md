@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a finance student who turns raw financial data into decisions — financial models, credit assessments, and analytics that a real business could act on. I care less about writing clever code and more about answering the actual business question underneath the numbers.
+I'm a finance student who turns raw financial data into decisions financial models, credit assessments, and analytics that a real business could act on. I care less about writing clever code and more about answering the actual business question underneath the numbers.
 
 ---
 
@@ -10,13 +10,13 @@ I'm a finance student who turns raw financial data into decisions — financial 
 
 I didn't choose finance. A missed engineering entry test and a pandemic did.
 
-Nobody in my family works in finance — my father ran a business the old-school way, no formal accounting, pure instinct. I was aiming for engineering, following my uncle's footsteps, when I missed my ECAT. Computer science was the backup plan; that didn't work out either. Commerce was what was left, and I fully intended to switch out of it within two semesters.
+Nobody in my family works in finance my father ran a business the old-school way, no formal accounting, pure instinct. I was aiming for engineering, following my uncle's footsteps, when I missed my ECAT. Computer science was the backup plan; that didn't work out either. Commerce was what was left, and I fully intended to switch out of it within two semesters.
 
-Then COVID shut my father's business down — and for the first time, the cash flow and risk concepts I was half-listening to in class stopped being theory. They were explaining what had just happened to my own family. I never switched majors. I went back and rebuilt my basics properly, started stacking certifications, and started building real projects instead of just clearing exams.
+Then COVID shut my father's business down and for the first time, the cash flow and risk concepts I was half-listening to in class stopped being theory. They were explaining what had just happened to my own family. I never switched majors. I went back and rebuilt my basics properly, started stacking certifications, and started building real projects instead of just clearing exams.
 
-What I found out about myself along the way: I'm happiest chasing the "why did this happen, and how could it have been fixed" question — which is exactly why my projects here lean toward bankruptcy prediction, credit risk, and decade-long performance breakdowns rather than surface-level dashboards.
+What I found out about myself along the way: I'm happiest chasing the "why did this happen, and how could it have been fixed" question which is exactly why my projects here lean toward bankruptcy prediction, credit risk, and decade-long performance breakdowns rather than surface-level dashboards.
 
-**Next up:** financial analyst work now, AI-driven finance research long-term — same questions, sharper tools. And I'd rather present findings to a room than email them quietly, which is why I led my team through the OGDCL project instead of just contributing to it.
+**Next up:** financial analyst work now, AI-driven finance research long-term same questions, sharper tools. And I'd rather present findings to a room than email them quietly, which is why I led my team through the OGDCL project instead of just contributing to it.
 
 ---
 
@@ -27,7 +27,7 @@ What I found out about myself along the way: I'm happiest chasing the "why did t
 - 💼 Hands-on experience: FINCA Microfinance Bank (internship) and Citi Bank Finance Job Simulation
 - 🧮 Built financial models, credit risk assessments, and forecasting tools across 10+ independent projects
 - 🗣️ Led a team through a full company financial analysis (OGDCL) — graded and presented in class
-- 📚 Always learning — from Python for financial analysis to ML in finance to agentic AI for practitioners
+- 📚 Always learning from Python for financial analysis to ML in finance to agentic AI for practitioners
 
 ---
 
