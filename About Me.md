@@ -51,7 +51,7 @@ Git · GitHub · Jupyter
 
 | Project | What it's about |
 |---|---|
-| [Bankruptcy Risk Analytics](https://github.com/hashmiajwa3-hub/bankruptcy-prediction) | Predicting corporate bankruptcy 3 years out from financial ratios — 10,500+ companies, XGBoost + SHAP |
+| [Bankruptcy Risk Analytics](https://github.com/hashmiajwa3-hub/10_bankruptcy-prediction) | Predicting corporate bankruptcy 3 years out from financial ratios — 10,500+ companies, XGBoost + SHAP |
 | [Toyota Financial Analytics](https://github.com/hashmiajwa3-hub/09_Toyota_Analysis_Report) | A decade of Toyota's financials — DuPont analysis, forecasting, and what's really driving revenue growth |
 | [OGDCL Financial Performance](https://github.com/hashmiajwa3-hub/02_OGDCL_Financial_Analysis) | Team-led valuation and performance review of Pakistan's largest E&P company — graded & presented |
 | [Green Solutions Credit Analysis](https://github.com/hashmiajwa3-hub/08_Credit_Analysis_project) | Credit risk assessment — is 70% revenue growth backed by a sound balance sheet? |
@@ -75,5 +75,7 @@ Git · GitHub · Jupyter
 
 - 📧 ajwahashmi@outlook.com
 - 📂 Full portfolio (all projects & certificates): [add your Google Drive link here]
-#⭐ Thanks for visiting!
+
+  
+# ⭐ Thanks for visiting!
 If you like what you see, consider starring a repo or leaving feedback 🙌
